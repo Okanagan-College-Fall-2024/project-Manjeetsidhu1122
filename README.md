@@ -1,5 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/kjYrw1s4)
 
+The Submission of this project is in file bullfighting.py and a screenshot of the Responses.txt file
+
 # Knowledge Distillation For Large Language Models
 
 ## Experiments using Phi3-mini 
@@ -24,3 +26,5 @@ For this experiment, we have employed the ollama phi3-mini model. The data that 
 | F1 score | Precision | Recall |
 |:----------:|:----------:|:----------:|
 | 0.72 | 0.66 | 0.80 |
+
+
